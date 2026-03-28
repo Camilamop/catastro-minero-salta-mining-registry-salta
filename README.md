@@ -63,4 +63,4 @@ de la investigación en derechos humanos.
 
 Camila Agustina Mopty  
 Diplomatura en Ciencia de Datos en R y Python en Instituto Data Science Argentina 
-www.linkedin.com/in/camila-mopty · mail: camilamopty@gmail.com
+Linkedin: www.linkedin.com/in/camila-mopty · mail: camilamopty@gmail.com
