@@ -62,5 +62,5 @@ de la investigación en derechos humanos.
 ## Autora
 
 Camila Agustina Mopty  
-Diplomatura en Ciencia de Datos en R y Python en Instituto Data Science Argentina 
+Diplomatura en Ciencia de Datos en R y Python en Instituto Data Science Argentina ·
 Linkedin: www.linkedin.com/in/camila-mopty · mail: camilamopty@gmail.com
