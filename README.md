@@ -2,21 +2,20 @@
 
 ## Descripción
 
-Proyecto de análisis de datos sobre el catastro minero oficial de la provincia 
-de Salta, Argentina. El dataset proviene del Geoportal oficial de la provincia 
-y contiene 4.104 registros de concesiones mineras con datos geoespaciales, 
-titulares, minerales, estados legales y fechas de inicio.
+Proyecto de análisis de datos sobre el catastro minero oficial de la provincia de Salta, Argentina. El dataset proviene del Geoportal oficial de la provincia 
+y contiene 4.104 registros de concesiones mineras con datos geoespaciales, titulares, minerales, estados legales y fechas de inicio.
+
+Disponible para visualización en:
+https://nbviewer.org/github/Camilamop/catastro-minero-salta-mining-registry-salta/blob/main/notebooks/01_eda_cleaning.ipynb
 
 Este proyecto tiene tres propósitos simultáneos:
-- **Investigación para derechos humanos:** insumo analítico para una organización 
-  ambiental, con rigor metodológico y trazabilidad de fuentes
+- **Investigación para derechos humanos:** insumo analítico para una organización ambiental, con rigor metodológico y trazabilidad de fuentes
 - **Proyecto final de Diplomatura en Ciencia de Datos**
 - **Portfolio profesional público**
 
 ## Pregunta de investigación
 
-¿Cómo se distribuye la propiedad de las concesiones mineras en Salta, 
-quiénes son los principales actores y qué redes de relaciones existen 
+¿Cómo se distribuye la propiedad de las concesiones mineras en Salta, quiénes son los principales actores y qué redes de relaciones existen 
 entre ellos?
 
 ## Estructura del repositorio
@@ -43,7 +42,7 @@ catastro-minero-salta/
 | Análisis de redes | NetworkX |
 | Machine learning | scikit-learn |
 | Base de datos | PostgreSQL + PostGIS |
-| Visualización | Power BI / Tableau |
+| Visualización | Power BI / Data Studio |
 
 ## Fuente de datos
 
@@ -54,10 +53,7 @@ catastro-minero-salta/
 - **Última actualización del dataset:** Diciembre 2025
 ## Consideraciones éticas
 
-El dataset es de carácter público oficial. El análisis incluye datos de 
-personas físicas que, si bien son públicos en su rol de concesionarios 
-mineros registrados, son tratados con las consideraciones éticas propias 
-de la investigación en derechos humanos.
+El dataset es de carácter público oficial. El análisis incluye datos de personas físicas que, si bien son públicos en su rol de concesionarios mineros registrados, son tratados con las consideraciones éticas propias de la investigación en derechos humanos.
 
 ## Autora
 
